@@ -9,3 +9,5 @@ demonstrating NiftyOne use.
 >
 > - `data` directory contains generated files stored with BIDS-esque organization
 > - `niftyone` directory contains example videos
+>
+> Files will need to be downloaded for viewing.
